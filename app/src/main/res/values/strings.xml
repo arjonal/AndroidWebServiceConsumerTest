@@ -2,5 +2,5 @@
     <string name="app_name">WebServiceTest</string>
     <string name="title_activity_article">ArticleActivity</string>
     <string name="selected_category_id_key">SELECTED_CATEGORY_ID</string>
-    <string name="server_url">http://167.99.98.184:5000</string>
+    <string name="server_url"></string>
 </resources>
